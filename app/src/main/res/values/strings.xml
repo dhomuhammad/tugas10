@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">HalloAppTI.22.A5</string>
+    <string name="Kabar">Hello, Bagaimana kabar anda hari ini?</string>
+
+    <string name="Button_label_toast">Toast</string>
+    <string name="Button_label_count">Hitung</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Anjay Keren</string>
+
+    <string name="articel_title">Kasus Sianida</string>
+    <string name="articel_subtitle">ICE COLD!</string>
+    <string name="articel_text">Di dalam lemari besi jauh di dalam Abbey Road Studios di London —
+         dilindungi oleh pintu yang tidak bertanda, dikunci tiga kali,
+         dan diberi peringatan polisi - seperti 400 jam yang belum dibuka Rekaman Beatles,
+         dimulai dari 2 Juni 1962 dan diakhiri dengan lagu terakhir yang direkam untuk album Let It Be.
+         Yang terbaik dari yang terbaik dirilis oleh Apple Records dalam bentuk
+         seri Antologi 3 volume. Untuk informasi lebih lanjut, lihat Beatles Time Capsule di
+         www.rockument.com. \n\n
+
+         Volume ini dimulai dengan lagu baru Beatle yang pertama, “Free as a Bird”
+         (berdasarkan karya John Lennon demo, hanya ditemukan di The Lost Lennon Tapes Vol. 28,
+         dan mencakup sejarah paling awal rekaman, cuplikan dari album pertama,
+         dan rekaman live dari konser awal dan BBC
+         Sesi radio. \n\n
+
+        Highlights include: \n\n
+
+         Cry for a Shadow – Banyak penggemar fanatik Beatle yang memulai perjalanannya,
+         seperti yang saya lakukan, dengan pertama kali mendengarkan lagu ini.
+         Awalnya berjudul “Beatle Bop” dan direkam dalam sebuah single sesi yang menghasilkan
+         empat lagu (tiga lainnya menampilkan Tony Sheridan dengan The Beatles sebagai
+         sebuah band pendukung), “Cry for a Shadow” adalah sebuah instrumental
+         yang ditulis oleh Lennon dan Harrison, yang menjadikannya unik hingga saat ini.
+         John Lennon memainkan gitar ritme, George Harrison memainkan peran utama gitar,
+         Paul McCartney memainkan bass, dan Pete Best memainkan drum. Sesi ini diproduksi oleh
+         Bert Kaempfert di Hamburg, Jerman, selama kunjungan kedua The Beatles dari bulan April hingga Juli
+         tahun 1961 untuk bermain di klub bagian Reeperbahn. \n\n
+
+        My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie”
+        (the first-ever single with Beatles playing), as the backing band for English singer Tony
+        Sheridan,originally a member of the Jets. The popularity of this single in Liverpool brought
+        the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried
+        to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever
+        released vocal). \n\n
+
+         Searchin - Lagu komedi Jerry Leiber - Mike Stoller yang menjadi hit bagi Coasters pada tahun 1957
+         , dan live favorit The Beatles yang populer. The Coasters juga menjadi hit dengan "Besame Mucho"
+         dan The Beatles juga meng-cover lagu itu. Ringo Starr sekarang telah menggantikan Pete Best
+         drum.Falsetto tinggi adalah George, yang juga memainkan gitar utama yang ragu-ragu. Ini dari mereka
+         audisi pertama untuk Decca Records di London pada 1 Januari 1962, tinggal di studio. Yang Bersyukur
+         Dead kemudian meng-cover "Searchin" dengan aransemen serupa, Pigpen mengisi vokal Paul.
+         Versi live tersedia pada rekaman outtake yang menampilkan Dead bergabung dengan Beach Boys!
+        \n\n
+
+         Love Me Do — Versi awal dari lagu tersebut, dimainkan sedikit lebih lambat dan lebih bernuansa blues
+         perasaan, dan irama bossa-nova yang keren di tengahnya.
+         Paul harus bernyanyi sementara John memainkan harmonika yang pertama untuk grup.
+         Pete Best memainkan drum pada versi ini. \n\n
+
+         Dia Mencintaimu – Sampai Ada Kamu – Memutar dan Berteriak — Langsung di Teater Princess Wales oleh
+         Leicester Square di London, dihadiri oleh Ratu. “Sampai Ada Kamu” (oleh Meredith Wilson)
+         berasal dari musikal The Music Man dan menjadi hit untuk Peggy Lee pada tahun 1961.
+         Sebelum memainkannya, Paul mengatakan itu direkam oleh grup Amerika favoritnya,
+         “Sophie Tucker” (yang mendapat beberapa tertawa).Pada akhirnya,
+         John memberitahu orang-orang di kursi yang lebih murah untuk bertepuk tangan, dan
+         istirahatlah untuk "menggemerincingkan perhiasanmu" dan kemudian mengumumkan
+         "Twist and Shout" (sebuah lagu oleh Bert Russell dan Phil Medley yang pertama kali
+         direkam pada tahun 1962 oleh Isley Brothers). Sebuah film dari pertunjukan menunjukkan
+         Ratu tersenyum mendengar ucapan John. \n\n
+
+         Leave My Kitten Alone — Salah satu lagu Beatle hilang yang direkam selama “Beatles For Sale”
+         sesi tetapi tidak pernah dirilis. Lagu ini, ditulis oleh Little Willie John, Titus Turner, dan
+         James McDougal, adalah hit R dan B tahun 1959 untuk Little Willie John dan di-cover oleh Johnny Preston
+         sebelum The Beatles mencobanya dan mengesampingkannya. Referensi ke "buldog gemuk besar" mungkin ada
+         mempengaruhi "Hey Bulldog" (album Yellow Submarine) milik John, yang merupakan rocker serupa. \n\n
+
+         One After 909 — Sebuah lagu yang direkam untuk album ¨C11C sebenarnya dikerjakan pada masa lalu.
+         dimulai, enam tahun sebelumnya. Pengambilan gambar ini menunjukkan bagaimana mereka
+         melakukannya dengan lebih lambat, dengan R dan B merasakannya.
+         Diposting pada 7 Oktober 2023Tinggalkan komentar di PROJECT SCROLLING TEXT
+    </string>
+    <string name="button_main">Send</string>
+    <string name="edittext_main">Send</string>
+    <string name="text_header">Enter your message here</string>
+    <string name="button_second">Reply</string>
+    <string name="edittext_second">Enter your reply here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="Back">Reset</string>
+    <string name="editText_main">Enter Your Message</string>
+    <string name="editText_second">Enter Your Reply</string>
+</resources>

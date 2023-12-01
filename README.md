@@ -18,7 +18,9 @@ Tugas 10
 
 
 
-https://github.com/dhomuhammad/tugas10/assets/130027527/00fda8cc-e2da-438e-8ce0-3e6624382e7d
+https://github.com/dhomuhammad/tugas10/assets/130027527/f4b75ad5-c640-4f16-bb8f-165e1bd78d98
+
+
 
 
 
